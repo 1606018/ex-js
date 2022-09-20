@@ -1,0 +1,19 @@
+
+* {
+    margin: 0px;
+}
+
+body > header {
+    background-color: rgb(49, 49, 49);
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+main {
+    padding: 10px;
+}
+
+hr {
+    margin: 5px 0px;
+}
